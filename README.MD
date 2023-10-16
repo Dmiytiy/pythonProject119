@@ -6,7 +6,7 @@
 
 ### Установка и Запуск
 
-git clone <URL репозитория>
+git clone https://github.com/Dmiytiy/pythonProject119.git
 
 ### **Запускаем docker-compose**
 
